@@ -1,0 +1,12 @@
+@import '~ngx-toastr/toastr';
+
+// nos variables surchargées
+$primary: #990eab;
+
+// charte graphique de base
+@import "~charte/assets/scss/styles";
+
+// style de base = bootstrap
+// @import "~bootstrap/scss/bootstrap";
+
+// nos surcharges de classes / nouvelles classes
